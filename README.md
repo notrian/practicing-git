@@ -1,2 +1,1 @@
-Test message
-More test text, lorum
+Updated text
